@@ -20,5 +20,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "hotwire-native-android"
 include(":core")
-include(":demo")
+include(":app")
 include(":navigation-fragments")
